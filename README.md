@@ -12,4 +12,5 @@ Pseudo code for understanding:
    4. Remove the input and, reset the cell to empty ('.')
 3. If all digits 1 through 9 have been tried. Backtrack to previous cells, and try a different digit(repeating steps 2-3)
 
+The following gif is a visual representation of the algorithm:
 ![](https://github.com/zeloitzik/Sudoku/blob/main/Sudoku_solved_by_bactracking.gif)
