@@ -1,7 +1,7 @@
 # Sudoku
 A sudoku solver using basic backtracking.
 
-Josh Ackland's solution heavily inspires the code. 
+This code is heavily inspired by Josh Ackland's solution.(The idea of using hashsets I took from him)
 Pseudo code for understanding:
 1. Start in the first empty cell
 2. Try placing digits 1 through 9 and check if the digit is valid.
